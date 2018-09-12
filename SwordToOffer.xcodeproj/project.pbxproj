@@ -26,6 +26,9 @@
 		48FC8D742147B80B0030A586 /* SwordToOffer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwordToOffer; sourceTree = BUILT_PRODUCTS_DIR; };
 		48FC8D772147B80B0030A586 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		48FC8D7E2147B82F0030A586 /* FindTargetInArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindTargetInArray.h; sourceTree = "<group>"; };
+		C17C2B05D94A319C632FC649 /* RebuildTreeNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RebuildTreeNode.h; sourceTree = "<group>"; };
+		C17C2B890A83B115EB331094 /* ReplaceSpace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReplaceSpace.h; sourceTree = "<group>"; };
+		C17C2CB2120AA2CA0BB45DB0 /* PrintList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrintList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,9 @@
 			children = (
 				48FC8D7E2147B82F0030A586 /* FindTargetInArray.h */,
 				48FC8D772147B80B0030A586 /* main.cpp */,
+				C17C2B890A83B115EB331094 /* ReplaceSpace.h */,
+				C17C2CB2120AA2CA0BB45DB0 /* PrintList.h */,
+				C17C2B05D94A319C632FC649 /* RebuildTreeNode.h */,
 			);
 			path = SwordToOffer;
 			sourceTree = "<group>";

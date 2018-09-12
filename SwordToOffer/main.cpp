@@ -8,11 +8,13 @@
 
 #include <iostream>
 #import "FindTargetInArray.h"
-
+#import "ReplaceSpace.h"
+#import "PrintList.h"
 
 int main(int argc, const char * argv[]) {
     
-    findTargetInArrayTest();
-    
+//    findTargetInArrayTest();
+//    replaceSpaceTest();
+    printListTest();
     return 0;
 }
