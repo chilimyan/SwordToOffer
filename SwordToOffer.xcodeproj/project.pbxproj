@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		48FC8D742147B80B0030A586 /* SwordToOffer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwordToOffer; sourceTree = BUILT_PRODUCTS_DIR; };
 		48FC8D772147B80B0030A586 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		48FC8D7E2147B82F0030A586 /* Solution.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Solution.h; sourceTree = "<group>"; };
+		48FC8D7E2147B82F0030A586 /* FindTargetInArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindTargetInArray.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		48FC8D762147B80B0030A586 /* SwordToOffer */ = {
 			isa = PBXGroup;
 			children = (
-				48FC8D7E2147B82F0030A586 /* Solution.h */,
+				48FC8D7E2147B82F0030A586 /* FindTargetInArray.h */,
 				48FC8D772147B80B0030A586 /* main.cpp */,
 			);
 			path = SwordToOffer;
